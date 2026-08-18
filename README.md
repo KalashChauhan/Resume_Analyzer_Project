@@ -1,4 +1,4 @@
-# Resume Screening App
+# Resume Analyzer
 Resume Screening App With Python and Machine Learning 
 React frontend and Flask API for the original resume-category classifier. The preprocessing and prediction sequence remains unchanged: clean text, TF-IDF transform, SVC prediction, then label decoding.
 
